@@ -14,6 +14,7 @@
     <module>jobs/process/joba_0.1</module>
     <module>jobs/process/jobb_0.1</module>
     <module>jobs/process/jobc_0.1</module>
+    <module>jobs/process/jobd_0.1</module>
   </modules>
   <properties>
     <talend.project.name>LABS</talend.project.name>
